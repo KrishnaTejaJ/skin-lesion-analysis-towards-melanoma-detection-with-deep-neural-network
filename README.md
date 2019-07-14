@@ -5,6 +5,9 @@ The data that being used is provided by ISIC as a part of their 2019 challenge. 
 
 Transfer Learning along with data augmentation the two techniques used in the process of developing the mechanism for the task of ISIC 2019. 
 
+The model is trained using nvidia DGX which resulted an accuracy of 78%.
+
 ## Acknowledgements
-1)  Dataset: https://challenge2019.isic-archive.com/data.html
-2)  https://github.com/aryanmisra/Skin-Lesion-Classifier
+1)  Bennett University, Greater Noida, UP, India.
+2)  Dataset: https://challenge2019.isic-archive.com/data.html
+3)  https://github.com/aryanmisra/Skin-Lesion-Classifier
