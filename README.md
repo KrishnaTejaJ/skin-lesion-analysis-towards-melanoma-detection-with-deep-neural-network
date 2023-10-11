@@ -28,10 +28,10 @@ The model is trained using nvidia DGX which resulted an accuracy of 78%.
 ### Prerequisites
 
 - Python libraries
-  - TensorFlow
   - Keras
   - NumPy
   - scikit-learn
+  - itertools
 
 ### Installation
 
@@ -41,6 +41,8 @@ cd skin_condition_classifier
 ```
 
 ### Dataset
+
+Source: https://challenge2019.isic-archive.com/data.html
 
 The dataset should be organized in the following directory structure:
 
@@ -99,6 +101,5 @@ The trained model will be saved as `model.h5`. The evaluation metrics (validatio
 
 ## Acknowledgements
 1)  Bennett University, Greater Noida, UP, India.
-2)  Dataset: https://challenge2019.isic-archive.com/data.html
-3)  https://github.com/aryanmisra/Skin-Lesion-Classifier
+2)  https://github.com/aryanmisra/Skin-Lesion-Classifier
 
