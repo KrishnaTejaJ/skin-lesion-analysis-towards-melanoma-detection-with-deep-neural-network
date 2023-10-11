@@ -36,7 +36,7 @@ The model is trained using nvidia DGX which resulted an accuracy of 78%.
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/skin_condition_classifier.git
+git clone https://github.com/KrishnaTejaJ/ISIC_2019.git
 cd skin_condition_classifier
 ```
 
